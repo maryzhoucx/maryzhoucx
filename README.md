@@ -15,6 +15,8 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — ★36967，开源 LLM 应用观测平台，追踪、评估并优化 AI 应用
 <!-- TRENDING:END -->
 
+热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
+
 ## 🛠️ 我常用的工具
 
 > 只写实际用过、本地已验证的工具。
