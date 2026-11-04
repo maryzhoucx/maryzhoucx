@@ -7,12 +7,12 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 > 每天发现的热门项目，每日更新。
 
 <!-- TRENDING:START -->
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — ★106476，给 AI 智能体的跨会话持久记忆，自动记录它做过的一切
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — ★30491，把 Claude Code 变成游戏开发工作室，49 个智能体加 72 个工作流技能
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) — ★16756，用纯 Rust 干净重写的开源版 Microsoft Word
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) — ★12415，纯 Rust 的开源参数化 3D CAD，桌面和 web 双端
-- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) — ★8868，开源 AI 同事，每个都有自己的电脑、浏览器和工具
-- [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — ★8797，开源的 Grok Bot 替代品，带可供机器人使用的虚拟机
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) — ★50738，实时分析数据库，查询海量数据快如闪电
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) — ★40404，带 AI 识别的自托管相册，自动分类整理照片
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) — ★38693，可自托管的个人知识库，层级笔记加富文本编辑
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) — ★37971，可自托管的 AI 第二大脑，能查文档、联网问答并做自动化
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) — ★37541，简单优雅的个人云系统，一台旧电脑变家庭服务器
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) — ★36967，开源 LLM 应用观测平台，追踪、评估并优化 AI 应用
 <!-- TRENDING:END -->
 
 ## 🛠️ 我常用的工具
