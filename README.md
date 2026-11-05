@@ -7,12 +7,12 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 > 每天发现的热门项目，每日更新。
 
 <!-- TRENDING:START -->
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) — ★50738，实时分析数据库，查询海量数据快如闪电
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) — ★40404，带 AI 识别的自托管相册，自动分类整理照片
-- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) — ★38693，可自托管的个人知识库，层级笔记加富文本编辑
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) — ★37971，可自托管的 AI 第二大脑，能查文档、联网问答并做自动化
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) — ★37541，简单优雅的个人云系统，一台旧电脑变家庭服务器
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) — ★36967，开源 LLM 应用观测平台，追踪、评估并优化 AI 应用
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) — ★154565，住在终端里的 AI 编程助手，能读懂代码库并直接动手写代码、跑测试
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — ★24181，主打最快、最便宜的网页智能体，能自动操作浏览器完成网页任务
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) — ★19570，用纯 Rust 从零写的开源 PDF 阅读器和编辑器，轻快可本地运行
+- [gogs/gogs](https://github.com/gogs/gogs) — ★47917，轻量易装的自托管 Git 服务，自己搭一个私有的代码托管站
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) — ★41159，低代码平台，拖拖拽拽加接数据库和 API 就能搭出管理后台和内部工具
+- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) — ★17901，把 SteamOS 的游戏主机体验带到安卓设备上，适合掌机式游玩
 <!-- TRENDING:END -->
 
 热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
