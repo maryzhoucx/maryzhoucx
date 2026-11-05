@@ -7,12 +7,12 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 > 每天发现的热门项目，每日更新。
 
 <!-- TRENDING:START -->
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) — ★154565，住在终端里的 AI 编程助手，能读懂代码库并直接动手写代码、跑测试
-- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — ★24181，主打最快、最便宜的网页智能体，能自动操作浏览器完成网页任务
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) — ★19570，用纯 Rust 从零写的开源 PDF 阅读器和编辑器，轻快可本地运行
-- [gogs/gogs](https://github.com/gogs/gogs) — ★47917，轻量易装的自托管 Git 服务，自己搭一个私有的代码托管站
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) — ★41159，低代码平台，拖拖拽拽加接数据库和 API 就能搭出管理后台和内部工具
-- [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) — ★17901，把 SteamOS 的游戏主机体验带到安卓设备上，适合掌机式游玩
+- [obra/superpowers](https://github.com/obra/superpowers) — ★312801，智能体开发技能框架与方法论，让 AI 助手按系统化流程写代码
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — ★297627，智能体性能优化系统，集成技能、记忆、安全机制与研究优先的开发流程
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — ★273516，DeepSeek 官方智能体框架，一切皆插件，可自由扩展、本地运行
+- [anthropics/skills](https://github.com/anthropics/skills) — ★187637，Anthropic 官方 Agent Skills 仓库，可直接装进 Claude Code 使用
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — ★152067，跨平台桌面助手，一站式切换管理 Claude Code、Codex 等多个编程智能体
+- [HeyPuter/everything](https://github.com/HeyPuter/everything) — ★7230，从零开源重建世界软件的实验性项目，新出且涨得很快
 <!-- TRENDING:END -->
 
 热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
