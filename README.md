@@ -7,12 +7,12 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 > 每天发现的热门项目，每日更新。
 
 <!-- TRENDING:START -->
-- [obra/superpowers](https://github.com/obra/superpowers) — ★312801，智能体开发技能框架与方法论，让 AI 助手按系统化流程写代码
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) — ★297627，智能体性能优化系统，集成技能、记忆、安全机制与研究优先的开发流程
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — ★273516，DeepSeek 官方智能体框架，一切皆插件，可自由扩展、本地运行
-- [anthropics/skills](https://github.com/anthropics/skills) — ★187637，Anthropic 官方 Agent Skills 仓库，可直接装进 Claude Code 使用
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — ★152067，跨平台桌面助手，一站式切换管理 Claude Code、Codex 等多个编程智能体
-- [HeyPuter/everything](https://github.com/HeyPuter/everything) — ★7230，从零开源重建世界软件的实验性项目，新出且涨得很快
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — ★144375，把代码库、文档、SQL、PDF 变成可查询的知识图谱，本地确定性解析、无向量库
+- [stablyai/orca](https://github.com/stablyai/orca) — ★119131，用自己的订阅跑一队编程智能体（Claude Code、Codex 等），桌面、手机、远程都能用
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — ★112269，开源的团队智能体管理应用
+- [robbietilton/Compositor](https://github.com/robbietilton/Compositor) — ★18538，Mac 原生开源 Photoshop 替代品
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) — ★17833，纯 Rust 从零写的开源非线性视频编辑器
+- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) — ★4680，用 7 美元 ESP32 让 AI 模型操作真 iPhone，无需 Mac、开发者账号或越狱
 <!-- TRENDING:END -->
 
 热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
