@@ -7,12 +7,12 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 > 每天发现的热门项目，每日更新。
 
 <!-- TRENDING:START -->
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — ★188172，让 AI 编程助手像最懒的资深工程师一样思考：能复用就不重写，代码越少越好
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — ★147652，给 AI 编程助手的设计智能技能，帮它做出专业级 UI/UX
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — ★118807，帮编程 Agent 大幅省 token 的技能加代理：少用 token 也能把活干好
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — ★114863，面向 AI 编程 Agent 的生产级工程技能合集，开箱即用
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — ★110828，给 AI Agent 装上“眼睛”，能读遍 Twitter、Reddit、YouTube 等全网内容
-- [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) — ★5180，从零写成的开源下载管理器，干净好用
+- [github/spec-kit](https://github.com/github/spec-kit) — ★149218，规范驱动开发工具包：先写需求规格，再让 AI 按规格生成代码，AI 编程少走弯路
+- [garrytan/gstack](https://github.com/garrytan/gstack) — ★141114，硅谷投资人 Garry Tan 的 Claude Code 实战配置，23 个角色化工具覆盖设计、开发、测试全流程
+- [earendil-works/pi](https://github.com/earendil-works/pi) — ★121272，统一多家大模型 API 的 AI 智能体工具箱，自带终端界面和编程助手 CLI
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) — ★8152，热门短剧应用 YellowFruit 的第三方客户端，支持 Android 与 Windows
+- [huamidev/GestaltX](https://github.com/huamidev/GestaltX) — ★5028，iOS 27.x 系统参数编辑器，可改地区码、设备预设并备份，支持 7 种语言
+- [expo/exact](https://github.com/expo/exact) — ★2245，Expo 出品的跨平台框架，写一次代码即可在网页、macOS、iOS、Linux 上原生运行，还能让 AI 智能体自动构建测试
 <!-- TRENDING:END -->
 
 热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
@@ -24,3 +24,10 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 - **微信桥（自托管）**：通过 ClawBot / iLink 桥接 WeChat，处理 1-1 文字消息；2026-11-04 实测状态为 polling，收发队列为空，登录已绑定。
 - **Microsoft Rewards 脚本**：[TheNetsky/Microsoft-Rewards-Script](https://github.com/TheNetsky/Microsoft-Rewards-Script)，本地已安装并配每日自动运行，用于小号自动完成每日任务。
 - **REA 静态分析（本地 CLI）**：[morluto/rea](https://github.com/morluto/rea) 的 rea-agents 6.8.0，本地装在 custom-connectors/custom.rea/node_modules/.bin/rea（不在 PATH）；2026-11-04 实测 --version 返回 6.8.0，并对一个单文件 JS 测试程序跑通 analyze-javascript-application，返回完整证据记录（evidence_id ev_25d1ff54…）。只做 JS/Electron 静态分析，不承诺原生反编译（本机未装 Hopper/Ghidra/IDA）。
+
+## 📓 实测记录
+
+> 只记当天实际跑过、查证过的东西，数字以日志为准。
+
+- **2026-11-10**：Microsoft Rewards 每日跑分 +175 分，余额 1660 → 1835 分；移动端每日任务、阅读 10 篇、桌面搜索 10 次均完成（日志 [RUN-END]，EXIT:0）。一项 UrlReward「A new web hero」已领取但未计分。
+- **2026-11-10**：微信桥过去 24 小时上游 RemoteProtocolError 16 次、轮询重启 12 次，每次 1–2 分钟内自动恢复；登录有效、无消息积压。
