@@ -7,12 +7,12 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 > 每天发现的热门项目，每日更新。
 
 <!-- TRENDING:START -->
-- [github/spec-kit](https://github.com/github/spec-kit) — ★149218，规范驱动开发工具包：先写需求规格，再让 AI 按规格生成代码，AI 编程少走弯路
-- [garrytan/gstack](https://github.com/garrytan/gstack) — ★141114，硅谷投资人 Garry Tan 的 Claude Code 实战配置，23 个角色化工具覆盖设计、开发、测试全流程
-- [earendil-works/pi](https://github.com/earendil-works/pi) — ★121272，统一多家大模型 API 的 AI 智能体工具箱，自带终端界面和编程助手 CLI
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) — ★8152，热门短剧应用 YellowFruit 的第三方客户端，支持 Android 与 Windows
-- [huamidev/GestaltX](https://github.com/huamidev/GestaltX) — ★5028，iOS 27.x 系统参数编辑器，可改地区码、设备预设并备份，支持 7 种语言
-- [expo/exact](https://github.com/expo/exact) — ★2245，Expo 出品的跨平台框架，写一次代码即可在网页、macOS、iOS、Linux 上原生运行，还能让 AI 智能体自动构建测试
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — ★113319，给编程智能体注入审美：艺术指导、参考图与浏览器检查，告别千篇一律的 AI 风格界面
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) — ★95567，把想法、计划或代码库一键变成精美的交互式架构图
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — ★92042，把任意代码变成可探索、可提问的交互式知识图谱
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — ★86455，免费开源 AI 网关：一个接口接入 375 家服务商、1400+ 模型，自动切换、节省 token
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — ★86213，单文件 Rust 二进制代理，常见开发命令可省 60–90% 的 LLM token
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — ★82627，写 HTML 就能渲染视频，专为 AI 智能体打造的视频生成工具
 <!-- TRENDING:END -->
 
 热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
