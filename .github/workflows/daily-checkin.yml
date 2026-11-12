@@ -1,0 +1,26 @@
+name: Daily check-in
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CHECKIN_PAT }}
+      - name: Update check-in log
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          echo "- $DATE daily check-in" >> daily-checkin.md
+          tail -30 daily-checkin.md > daily-checkin.md.tmp && mv daily-checkin.md.tmp daily-checkin.md
+      - name: Commit and push
+        run: |
+          git config user.name "maryzhoucx"
+          git config user.email "jymiloveu@gmail.com"
+          git add daily-checkin.md
+          git commit -m "Daily check-in: $(date -u +%Y-%m-%d)" || exit 0
+          git push
