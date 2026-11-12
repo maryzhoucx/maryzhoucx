@@ -7,12 +7,12 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 > 每天发现的热门项目，每日更新。
 
 <!-- TRENDING:START -->
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — ★113319，给编程智能体注入审美：艺术指导、参考图与浏览器检查，告别千篇一律的 AI 风格界面
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) — ★95567，把想法、计划或代码库一键变成精美的交互式架构图
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — ★92042，把任意代码变成可探索、可提问的交互式知识图谱
-- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — ★86455，免费开源 AI 网关：一个接口接入 375 家服务商、1400+ 模型，自动切换、节省 token
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — ★86213，单文件 Rust 二进制代理，常见开发命令可省 60–90% 的 LLM token
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — ★82627，写 HTML 就能渲染视频，专为 AI 智能体打造的视频生成工具
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — ★82016，开源 AI 求职助手：扫描招聘网站、按简历给岗位打分、定制 ATS 友好简历与求职信，还能做面试准备
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — ★70382，LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) — ★41179，用 Rust 编写的开源终端编程 Agent，支持任意大模型厂商，可多 Agent 协同
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — ★36157，面向复杂软件工程任务的 DeepSeek 编程 Agent，在终端内完成编码工作
+- [Twigpine/openclaude](https://github.com/Twigpine/openclaude) — ★34338，随处运行、支持任意模型的开源 Agent 命令行工具
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) — ★32264，Google 官方出品的 Workspace 命令行工具，一条命令操作 Drive、Gmail、日历、表格等
 <!-- TRENDING:END -->
 
 热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
