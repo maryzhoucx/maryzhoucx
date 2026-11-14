@@ -1,6 +1,27 @@
-# Hi there, this is maryzhoucx
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=maryzhoucx&fontSize=48&fontColor=fff&animation=twinkling)
 
-Exploring self-hosted tools, AI agents, and small automation projects. I keep notes on what I actually try and run.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C7CFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+mary;Exploring+self-hosted+tools;AI+agents+%26+small+automation;Notes+on+what+I+actually+run" alt="Typing SVG" />
+</p>
+
+<p align="center">Exploring self-hosted tools, AI agents, and small automation projects. I keep notes on what I actually try and run.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maryzhoucx&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryzhoucx&theme=tokyonight" alt="Profile details" />
+</p>
+
+---
 
 ## 🔥 热门推荐
 
@@ -15,7 +36,7 @@ Exploring self-hosted tools, AI agents, and small automation projects. I keep no
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) — ★32264，Google 官方出品的 Workspace 命令行工具，一条命令操作 Drive、Gmail、日历、表格等
 <!-- TRENDING:END -->
 
-热门区每天两次随热门汇总同步更新（约 09:52 / 21:52 美东）。
+热门汇总已于 2026-11-12 暂停更新，本区保留最后一批推荐。
 
 ## 🛠️ 我常用的工具
 
