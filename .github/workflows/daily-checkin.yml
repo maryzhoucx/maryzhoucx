@@ -1,0 +1,31 @@
+name: Daily check-in
+
+# 每天自动提交一次，保证贡献图不断档。
+# 必须用仓库 Secret CHECKIN_PAT（mary 的 fine-grained PAT，仅 maryzhoucx/maryzhoucx，
+# Contents 读写权限）推送，默认 GITHUB_TOKEN 的提交不计入贡献图。
+
+on:
+  schedule:
+    # 每天 16:00 UTC = 11:00 美东（UTC 和美东是同一天）
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CHECKIN_PAT }}
+      - name: Update check-in log
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          echo "- $DATE daily check-in" >> daily-checkin.md
+          tail -30 daily-checkin.md > daily-checkin.md.tmp && mv daily-checkin.md.tmp daily-checkin.md
+      - name: Commit and push
+        run: |
+          git config user.name "maryzhoucx"
+          git config user.email "jymiloveu@gmail.com"
+          git add daily-checkin.md
+          git commit -m "Daily check-in: $(date -u +%Y-%m-%d)" || exit 0
+          git push
