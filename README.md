@@ -42,7 +42,7 @@
 
 > 只写实际用过、本地已验证的工具。
 
-- **微信桥（自托管）**：通过 ClawBot / iLink 桥接 WeChat，处理 1-1 文字消息；2026-11-04 实测状态为 polling，收发队列为空，登录已绑定。健康守护每 60 秒检查一次，进程死了自动重启；登录过期才需重扫二维码；上游短暂抖动 2 分钟内自愈、不告警。
+- **微信桥（自托管）**：通过 ClawBot / iLink 桥接 WeChat，处理 1-1 文字消息；2026-11-04 实测状态为 polling，收发队列为空，登录已绑定。健康守护每 60 秒检查一次，进程死了自动重启；登录过期才需重扫二维码；上游短暂抖动 2 分钟内自愈、不告警。（守护与实测笔记：[maryzhoucx/wechat-bridge-notes](https://github.com/maryzhoucx/wechat-bridge-notes)）
 - **Microsoft Rewards 脚本**：[TheNetsky/Microsoft-Rewards-Script](https://github.com/TheNetsky/Microsoft-Rewards-Script)，本地已安装并配每日自动运行，用于小号自动完成每日任务。
 - **REA 静态分析（本地 CLI）**：[morluto/rea](https://github.com/morluto/rea) 的 rea-agents 6.8.0，本地装在 custom-connectors/custom.rea/node_modules/.bin/rea（不在 PATH）；2026-11-04 实测 --version 返回 6.8.0，并对一个单文件 JS 测试程序跑通 analyze-javascript-application，返回完整证据记录（evidence_id ev_25d1ff54…）。只做 JS/Electron 静态分析，不承诺原生反编译（本机未装 Hopper/Ghidra/IDA）。 （实测笔记：[maryzhoucx/rea-notes](https://github.com/maryzhoucx/rea-notes)）
 - **Simular Box（免费云电脑）**：[box.simular.ai](https://box.simular.ai)，免费计划 Box Free，Box 名 main；2026-11-15 09:31 美东实测为 Sleeping（闲置自动休眠，连续休眠 14 天会删机及文件）；计费页剩 4,932 credits（≈$4.93）；2026-11-14 首跑已唤醒并实际使用约 10 分钟，每周唤醒一次保机，跑完删克隆、不留常驻服务。详见保机笔记：[maryzhoucx/simular-box-notes](https://github.com/maryzhoucx/simular-box-notes)。
