@@ -1,20 +1,31 @@
-![header](https://capsule-render.vercel.app/api?测记录type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=maryzhoucx&fontSize=48&fontColor=fff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,23,29&height=200&section=header&text=maryzhoucx&fontSize=52&fontColor=fff&animation=twinkling&desc=self-hosted%20%C2%B7%20AI%20agents%20%C2%B7%20small%20automation&descSize=18)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C7CFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+mary;Exploring+self-hosted+tools;AI+agents+%26+small+automation;Notes+on+what+I+actually+run" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C7CFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+mary;Exploring+self-hosted+tools;AI+agents+%26+small+automation;Notes+on+what+I+actually+run;Making+my+GitHub+greener+every+day" alt="Typing SVG" />
 </p>
 
 <p align="center">Exploring self-hosted tools, AI agents, and small automation projects. I keep notes on what I actually try and run.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://komarev.com/ghpvc/?username=maryzhoucx&color=7C7CFF&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maryzhoucx&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,linux,git,githubactions,bash,markdown" alt="Skills" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=maryzhoucx&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maryzhoucx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -48,3 +59,4 @@
 - **Simular Box（免费云电脑）**：[box.simular.ai](https://box.simular.ai)，免费计划 Box Free，Box 名 main；2026-11-15 09:31 美东实测为 Sleeping（闲置自动休眠，连续休眠 14 天会删机及文件）；计费页剩 4,932 credits（≈$4.93）；2026-11-14 首跑已唤醒并实际使用约 10 分钟，每周唤醒一次保机，跑完删克隆、不留常驻服务。详见保机笔记：[maryzhoucx/simular-box-notes](https://github.com/maryzhoucx/simular-box-notes)。
 - **InstaBox（免费云电脑）**：免费实例 instabox，4 vCPU / 8 GiB 内存 / 20 GiB 存储，us-central1-a；2026-11-15 实测为 Running（闲置 30 分钟自动暂停），机内已清空、无内容、无到期日。
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,23,29&height=120&section=footer)
